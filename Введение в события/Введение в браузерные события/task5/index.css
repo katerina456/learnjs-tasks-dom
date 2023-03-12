@@ -1,0 +1,22 @@
+.down, .up, .menu {
+    display: none;
+}
+
+.down, .up {
+    margin-right: 5px;
+    color: rgb(28, 134, 28);
+}
+
+.menu {
+    list-style: none;
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.view {
+    display: block;
+}

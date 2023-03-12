@@ -1,0 +1,28 @@
+.edit {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+    resize: none;
+    outline: none;
+}
+
+td {
+    position: relative;
+}
+
+.button {
+    position: absolute;
+    z-index: 10;
+    top: 93px;
+}
+
+.ok {
+    left: 0;
+}
+
+.no {
+    right: 0;
+}
